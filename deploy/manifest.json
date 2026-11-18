@@ -1,0 +1,12 @@
+{
+  "package_version": "1.0.0",
+  "source_repository": "https://github.com/phxD/komiai-imagegen",
+  "source_commit": "7176ac7bd7b9b2a351a665746565b781ea36ca45",
+  "upstream_version": "v0.6.0",
+  "files": {
+    "SKILL.md": "3d1da353d454e1e1736c149a5e0f10ed75fe0bf4ac52cbef2358541819109288",
+    "references/komiai-api.md": "cd078cf66a7dfe743e3d6bcc80ed70384a6f6819dc7455ba901b0e399e717239",
+    "scripts/komiai_image.py": "e2339195aabea705a5bd109afb1dd5e3204261a95c46e17f9985df0dca68e7d3",
+    "scripts/mac_keychain.py": "5ac954b4a23843c8c27e42d4e49d413f5678cd88c2cdfda54c805fa9f6bdea7f"
+  }
+}

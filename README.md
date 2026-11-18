@@ -2,6 +2,15 @@
 
 在 Codex 里调用 KomiAI 的 `gpt-image-2.5-sunburst-count`。支持文生图、参考图编辑、遮罩局部重绘和按任务 ID 续查。Windows 和 macOS 共用同一个安装包。
 
+
+## 设计团队一键部署（已安装 Codex）
+
+把下面这段发给每位设计师，让他们粘贴到 Codex：
+
+> 请读取 https://github.com/phxD/komiai-imagegen/blob/main/deploy/README.md ，按文档为我的电脑安装 KomiAI 生图工具。自动识别 macOS 或 Windows，配置 Python 独立环境并安装个人 skill。Key 只在本机密码窗口输入；只检查环境，不提交生图任务。
+
+部署入口、权限提示、更新与排错见 [团队部署说明](deploy/README.md)。首次安装需要联网，Key 由每位同事单独配置。
+
 ## 下载与安装
 
 需要 Codex、Python 3.10 或以上，以及可用于该模型的 KomiAI API Key。
